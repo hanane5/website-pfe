@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/website-pfe/static/css/main.9a652f31.css",
+    "main.js": "/website-pfe/static/js/main.41cfc00b.js",
+    "static/js/787.045593cb.chunk.js": "/website-pfe/static/js/787.045593cb.chunk.js",
+    "static/media/administration.jpeg": "/website-pfe/static/media/administration.e07ac073bb73f3008d63.jpeg",
+    "static/media/commission scientifique.png": "/website-pfe/static/media/commission scientifique.6d4896af1bbe24e4f18c.png",
+    "static/media/corps enseignants.jpg": "/website-pfe/static/media/corps enseignants.d437a0d33ecb33ef808b.jpg",
+    "static/media/ecole.jpg": "/website-pfe/static/media/ecole.4e65f921018ed3e2602d.jpg",
+    "static/media/conseil.png": "/website-pfe/static/media/conseil.a97e4735541a03393c17.png",
+    "static/media/map.png": "/website-pfe/static/media/map.f8cbf55591c6fefebc2d.png",
+    "static/media/esp.png": "/website-pfe/static/media/esp.6f23edf0346a5bfbb7a7.png",
+    "static/media/présentation.png": "/website-pfe/static/media/présentation.4fb30fb688f599af9458.png",
+    "index.html": "/website-pfe/index.html",
+    "main.9a652f31.css.map": "/website-pfe/static/css/main.9a652f31.css.map",
+    "main.41cfc00b.js.map": "/website-pfe/static/js/main.41cfc00b.js.map",
+    "787.045593cb.chunk.js.map": "/website-pfe/static/js/787.045593cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a652f31.css",
+    "static/js/main.41cfc00b.js"
+  ]
+}
